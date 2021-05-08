@@ -2,7 +2,7 @@
   "name": "pc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://efrain-sanchez.github.io/CranialNerves/",
+  "homepage": "https://efrain-sanchez.github.io/Neuro/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -11,7 +11,8 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "gh-pages": "^3.1.0"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -40,7 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
     "react-dom": "^17.0.2"
   }
 }
