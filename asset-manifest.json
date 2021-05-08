@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Neuro/static/js/main.b421d6bf.chunk.js",
+    "main.js.map": "/Neuro/static/js/main.b421d6bf.chunk.js.map",
+    "runtime-main.js": "/Neuro/static/js/runtime-main.e701df59.js",
+    "runtime-main.js.map": "/Neuro/static/js/runtime-main.e701df59.js.map",
+    "static/js/2.c992d2af.chunk.js": "/Neuro/static/js/2.c992d2af.chunk.js",
+    "static/js/2.c992d2af.chunk.js.map": "/Neuro/static/js/2.c992d2af.chunk.js.map",
+    "index.html": "/Neuro/index.html",
+    "static/js/2.c992d2af.chunk.js.LICENSE.txt": "/Neuro/static/js/2.c992d2af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e701df59.js",
+    "static/js/2.c992d2af.chunk.js",
+    "static/js/main.b421d6bf.chunk.js"
+  ]
+}
